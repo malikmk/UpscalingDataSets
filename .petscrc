@@ -1,0 +1,2 @@
+-pc_type hypre
+-ksp_type gmres
